@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c25e8c9-a3a7-48de-9449-7a0e6df16799" name="Changes" comment="" />
+    <list default="true" id="9c25e8c9-a3a7-48de-9449-7a0e6df16799" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/hello.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1790296937173</updated>
       <workItem from="1790298077558" duration="224000" />
-      <workItem from="1790298320240" duration="1058000" />
+      <workItem from="1790298320240" duration="1329000" />
     </task>
     <servers />
   </component>
